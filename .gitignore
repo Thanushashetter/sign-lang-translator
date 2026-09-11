@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+person1_pose/models/*.task
