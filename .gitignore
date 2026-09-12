@@ -1,3 +1,5 @@
+.env
+.venv/
 __pycache__/
 *.pyc
 
@@ -9,3 +11,11 @@ data/processed/
 *.pt
 
 person1_pose/models/*.task
+
+person3_translate/finetune/data/
+person3_translate/finetune/model/
+person3_translate/finetune/evaluation_results.json
+
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

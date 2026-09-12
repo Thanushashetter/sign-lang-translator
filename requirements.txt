@@ -1,0 +1,9 @@
+google-genai
+python-dotenv
+datasets
+transformers
+torch
+sacrebleu
+sentencepiece
+streamlit
+streamlit-webrtc
