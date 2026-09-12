@@ -3,11 +3,18 @@
 __pycache__/
 *.pyc
 
+data/raw/
+data/videos/
+data/processed/
+
+*.npy
+*.pt
+
+person1_pose/models/*.task
+
 person3_translate/finetune/data/
 person3_translate/finetune/model/
 person3_translate/finetune/evaluation_results.json
-
-person1_pose/models/*.task
 
 .ipynb_checkpoints/
 .DS_Store
