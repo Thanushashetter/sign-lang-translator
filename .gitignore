@@ -1,3 +1,11 @@
 __pycache__/
 *.pyc
+
+data/raw/
+data/videos/
+data/processed/
+
+*.npy
+*.pt
+
 person1_pose/models/*.task
