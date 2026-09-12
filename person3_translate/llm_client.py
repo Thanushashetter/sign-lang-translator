@@ -14,7 +14,7 @@ if not os.getenv("GEMINI_API_KEY"):
 
 client = genai.Client()
 
-MODEL_NAME = "gemini-3.8-flash"
+MODEL_NAME = "gemini-3.6-flash"
 MAX_RETRIES = 3
 
 
